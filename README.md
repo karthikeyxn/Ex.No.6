@@ -1,6 +1,5 @@
-# Exno.6-Prompt-Engg
-# Date: 21.5.25
-# Register no. 212222040091
+# Exno.6-Prompt-Eng
+# Register no. 212223040088
 # Aim: 
 
 Development of Python Code Compatible with Multiple AI Tools
